@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coming Soon</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #282c34;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+        }
+
+        h1 {
+            font-size: 48px;
+            margin: 0;
+        }
+
+        p {
+            font-size: 24px;
+            margin: 10px 0;
+        }
+
+        .countdown {
+            font-size: 20px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div>
+        <h1>Coming Soon!</h1>
+        <p>We are working hard to bring something amazing.</p>
+        <div class="countdown" id="countdown"></div>
+    </div>
+
+    <script>
+        // Countdown timer
+        const countdownElement = document.getElementById('countdown');
+
+        // Set the date for the countdown (YYYY-MM-DD format)
+        const countdownDate = new Date("2024-12-31T23:59:59").getTime();
+
+        const updateCountdown = () => {
+            const now = new Date().getTime();
+            const distance = countdownDate - now;
+
+            // Time calculations for days, hours, minutes, and seconds
+            const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            // Display the result in the countdown element
+            countdownElement.innerHTML = `${days}d ${hours}h ${minutes}m ${seconds}s`;
+
+            // If the countdown is finished, display a message
+            if (distance < 0) {
+                clearInterval(x);
+                countdownElement.innerHTML = "We are live!";
+            }
+        };
+
+        // Update the countdown every second
+        const x = setInterval(updateCountdown, 1000);
+    </script>
+</body>
+</html>
