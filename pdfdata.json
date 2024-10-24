@@ -1,0 +1,87 @@
+[
+  {
+    "pdfTitle": "বাংলা ( Bangla )",
+    "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
+    "iconBackground": "#e950f7",
+    "iconImageResId": "ic_bangla",
+    "pdfUrl": "https://cdn.jsdelivr.net/gh/hscbmt/testpdf@main/bewpdf.pdf",
+    "pdfPass": "123"
+  },
+  {
+    "pdfTitle": "ইংরেজি ( English )",
+    "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
+    "iconBackground": "#ff3b4b",
+    "iconImageResId": "ic_english",
+    "pdfUrl": "https://cdn.jsdelivr.net/gh/hscbmt/hscbmt.github.io@latest/accounting.pdf",
+    "pdfPass": ""
+  },
+  {
+    "pdfTitle": "কম্পিউটার অফিস এপ্লিকেশন",
+    "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
+    "iconBackground": "#ff6105",
+    "iconImageResId": "ic_computer",
+    "pdfUrl": "https://cdn.jsdelivr.net/gh/hscbmt/apiUrl@main/computer_office.pdf",
+    "pdfPass": "cofcHUsW#F&giS_u84Che3!"
+  },
+  {
+    "pdfTitle": "অফিস ম্যানেজমেন্ট",
+    "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
+    "iconBackground": "#0ba84a",
+    "iconImageResId": "ic_office",
+    "pdfUrl": "https://b1.banglamcq.online/office_management.pdf",
+    "pdfPass": "ofwIxiqujA6#plt5Mo#oS-"
+  },
+  {
+    "pdfTitle": "হিসাববিজ্ঞান নীতি ও প্রয়োগ",
+    "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
+    "iconBackground": "#13a3b5",
+    "iconImageResId": "ic_accounting",
+    "pdfUrl": "https://banglamcq.online/human_resource.pdf",
+    "pdfPass": ""
+  },
+  {
+    "pdfTitle": "ব্যবসায় সংগঠন ও ব্যবস্থাপনা",
+    "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
+    "iconBackground": "#b51963",
+    "iconImageResId": "ic_business",
+    "pdfUrl": "https://b1.banglamcq.online/business_management.pdf",
+    "pdfPass": "bmJe?R@rUzaFr#M92e*i1R"
+  },
+  {
+    "pdfTitle": "মার্কেটিং নীতি ও প্রয়োগ",
+    "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
+    "iconBackground": "#000000",
+    "iconImageResId": "ic_marketing",
+    "pdfUrl": "https://b1.banglamcq.online/marketing_rules.pdf",
+    "pdfPass": "mrZuw9vadrec3e-0lqL5A1"
+  },
+  {
+    "pdfTitle": "ডিজিটাল টেকনোলজি ইন বিজনেস",
+    "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
+    "iconBackground": "#0ba84a",
+    "iconImageResId": "ic_digital",
+    "pdfUrl": "https://cdn.jsdelivr.net/gh/hscbmt/apiUrl@main/test.pdf",
+    "pdfPass": "dgjAPhEPi&P3migiRiV*th"
+  },
+  {
+    "pdfTitle": "হিউম্যান রিসোর্স ম্যানেজমেন্ট",
+    "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
+    "iconBackground": "#ff6105",
+    "iconImageResId": "ic_human",
+    "pdfUrl": "https://b1.banglamcq.online/human_resource.pdf",
+    "pdfPass": "hu!RE&$JW2UUMC&k2"
+  },
+  {
+    "pdfTitle": "বিজনেস ইংলিশ এন্ড কমিউনিকেশন",
+    "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
+    "iconBackground": "#13a3b5",
+    "iconImageResId": "ic_bgenglish",
+    "pdfUrl": "https://b1.banglamcq.online/bussiness_english.pdf",
+    "pdfPass": "be!wE3wIdAXIstu-Teml=L"
+  }
+  
+  // ======================== Duplicated ==========================
+  
+  
+  
+]
