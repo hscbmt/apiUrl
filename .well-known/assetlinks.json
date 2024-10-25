@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hscbmt.guideboi",
+    "sha256_cert_fingerprints":
+    ["90:D7:AD:22:BB:6F:6C:40:B0:4E:DF:E0:59:76:0A:1D:23:67:58:9A:06:8B:2D:A1:75:16:04:2E:6C:B0:C1:FF"]
+  }
+}]
