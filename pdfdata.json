@@ -4,7 +4,7 @@
     "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
     "iconBackground": "#e950f7",
     "iconImageResId": "ic_bangla",
-    "pdfUrl": "https://cdn.jsdelivr.net/gh/hscbmt/testpdf@main/bewpdf.pdf",
+    "pdfUrl": "https://b1.banglamcq.online/uploadcopy/bangla.pdf",
     "pdfPass": "123"
   },
   {
@@ -20,7 +20,7 @@
     "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
     "iconBackground": "#ff6105",
     "iconImageResId": "ic_computer",
-    "pdfUrl": "https://cdn.jsdelivr.net/gh/hscbmt/apiUrl@main/computer_office.pdf",
+    "pdfUrl": "https://b1.banglamcq.online/uploadcopy/computer_office.pdf",
     "pdfPass": "cofcHUsW#F&giS_u84Che3!"
   },
   {
@@ -28,7 +28,7 @@
     "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
     "iconBackground": "#0ba84a",
     "iconImageResId": "ic_office",
-    "pdfUrl": "https://b1.banglamcq.online/office_management.pdf",
+    "pdfUrl": "https://b1.banglamcq.online/uploadcopy/office_management.pdf",
     "pdfPass": "ofwIxiqujA6#plt5Mo#oS-"
   },
   {
@@ -36,7 +36,7 @@
     "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
     "iconBackground": "#13a3b5",
     "iconImageResId": "ic_accounting",
-    "pdfUrl": "https://banglamcq.online/human_resource.pdf",
+    "pdfUrl": "https://banglamcq.online/uploadcopy/human_resource.pdf",
     "pdfPass": ""
   },
   {
@@ -44,7 +44,7 @@
     "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
     "iconBackground": "#b51963",
     "iconImageResId": "ic_business",
-    "pdfUrl": "https://b1.banglamcq.online/business_management.pdf",
+    "pdfUrl": "https://b1.banglamcq.online/uploadcopy/business_management.pdf",
     "pdfPass": "bmJe?R@rUzaFr#M92e*i1R"
   },
   {
@@ -52,7 +52,7 @@
     "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
     "iconBackground": "#000000",
     "iconImageResId": "ic_marketing",
-    "pdfUrl": "https://b1.banglamcq.online/marketing_rules.pdf",
+    "pdfUrl": "https://b1.banglamcq.online/uploadcopy/marketing_rules.pdf",
     "pdfPass": "mrZuw9vadrec3e-0lqL5A1"
   },
   {
@@ -60,7 +60,7 @@
     "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
     "iconBackground": "#0ba84a",
     "iconImageResId": "ic_digital",
-    "pdfUrl": "https://cdn.jsdelivr.net/gh/hscbmt/apiUrl@main/test.pdf",
+    "pdfUrl": "https://b1.banglamcq.online/uploadcopy/digital_technology.pdf",
     "pdfPass": "dgjAPhEPi&P3migiRiV*th"
   },
   {
@@ -68,7 +68,7 @@
     "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
     "iconBackground": "#ff6105",
     "iconImageResId": "ic_human",
-    "pdfUrl": "https://b1.banglamcq.online/human_resource.pdf",
+    "pdfUrl": "https://b1.banglamcq.online/uploadcopy/human_resource.pdf",
     "pdfPass": "hu!RE&$JW2UUMC&k2"
   },
   {
@@ -76,12 +76,8 @@
     "pdfSubTitle": "( নতুন সিলেবাস অনুযায়ী )",
     "iconBackground": "#13a3b5",
     "iconImageResId": "ic_bgenglish",
-    "pdfUrl": "https://b1.banglamcq.online/bussiness_english.pdf",
+    "pdfUrl": "https://b1.banglamcq.online/uploadcopy/bussiness_engliash.pdf",
     "pdfPass": "be!wE3wIdAXIstu-Teml=L"
   }
-  
-  // ======================== Duplicated ==========================
-  
-  
-  
+ 
 ]
