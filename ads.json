@@ -1,7 +1,7 @@
 {
   "ADS": {
     "adsTimes": 10000,
-    "setting": "ADS_OFF",
+    "setting": "ADS_ON",
     "tapCount": 5
   }
 }
