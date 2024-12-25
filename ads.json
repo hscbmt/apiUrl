@@ -1,6 +1,6 @@
 {
   "ADS": {
-    "adsTimes": 10000,
+    "adsTimes": 60000,
     "isAdsEnabled": "true",
     "tapCount": 5,
     "adsHideFor": 60000,
